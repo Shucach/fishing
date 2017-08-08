@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Карась річковий",
+    "img": "images/fishing/caras.jpg",
+    "strong": "1"
+  },
+  {
+    "id": "2",
+    "name": "Плотва звичайна",
+    "img": "images/fishing/plotva.jpg",
+    "strong": "1"
+  }
+]
